@@ -32,8 +32,4 @@ This project involves the development of a decentralized exchange (DEX) platform
 - npm or yarn
 - Hardhat
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+
